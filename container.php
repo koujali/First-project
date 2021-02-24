@@ -29,7 +29,7 @@
                 <div class="card bg-muted" style="height:20rem">Example 2</div>
             </div>
             <div class="col-xs-12 col-md-4">
-                <div class="card bg-danger" style="height:20rem">Example 3</div>
+                <div class="card bg-danger" style="height:20rem"> 3</div>
             </div>
         </div>
     </div>
